@@ -1,8 +1,0 @@
-{
-  "name": "SeydaNeen",
-  "short_name": "SeydaNeen",
-  "gcm_sender_id": "549881820644",
-  "fcm_sender_id": "549881820644",
-  "display": "standalone",
-  "gcm_user_visible_only": true
-}
